@@ -1,0 +1,14 @@
+[
+  {
+    "repoTitle": "Fjord Core Repository",
+    "repoVersion": 1,
+    "repoRootURL": "https://colebohte.github.io/fwh/fjord/core",
+    "repoActive": true,
+  },
+  {
+    "repoTitle": "Fjord Community Repository",
+    "repoVersion": 1,
+    "repoRootURL": "https://colebohte.github.io/fwh/fjord/community",
+    "repoActive": true,
+  },
+]
